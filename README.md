@@ -1,3 +1,4 @@
 # TicTacToe
 Tic Tac Toe Game using java awt and events
-![](images/Screenshot from 2020-03-01 13-14-54.png)
+
+![](Images/Screenshot%20from%202020-03-01%2013-14-54.png)
